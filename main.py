@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def root():
-    return "hello cnu computer network is fun"
+    return "hello computer network is fun"
