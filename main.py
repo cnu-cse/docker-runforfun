@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def root():
-    return "TODO: 여기에 응답 문자열을 작성하세요."
+    return "hello cnu computer network is fun"
